@@ -1,2 +1,5 @@
-# cpnt201-a2-traffico
-assignment 2- three deployed HTML5 template (1/3)
+# CPNT201-A2
+by: Myka Peligrino
+
+Template from: 
+https://themewagon.com/themes/free-bootstrap-5-html-5-business-website-template-traffico/
